@@ -1,0 +1,8 @@
+sub_category_id,sub_category,category
+3,smartphones low end,celulares
+4,smartphones mid end,celulares
+5,cozinhas compactas,moveis
+1,vinhos,bebidas alcoolicas
+2,smartphones high end,celulares
+6,sofas,moveis
+-1,Not Applicable,Not Applicable
